@@ -2262,6 +2262,8 @@
 
 
             this.save();
+
+            feedJson();
           }
         }
       }
